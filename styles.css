@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(0, 46, 109);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    background-color: white;
+    display: inline-block;
+    margin: 0.5%;
+}
+
+#topSection {
+    width: 99%;
+    height: 100px;
+}
+
+#sideSection {
+    width: 20%;
+}
+
+#mainSection {
+    width: 77.7%;
+}
