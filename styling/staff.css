@@ -1,0 +1,18 @@
+.staffImage {
+    position: absolute;
+    right: 5%;
+    width: 200px;
+    border-radius: 10px;
+    border: rgb(225, 225, 225) 2px solid;
+}
+
+.staff {
+    background-color: rgb(235, 235, 235);
+    border: rgb(225, 225, 225) 2px solid;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+p {
+    width: 70%;
+}
