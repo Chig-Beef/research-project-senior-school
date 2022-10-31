@@ -1,10 +1,6 @@
-#mainSection {
-    height: 180%;
-}
-
 #map {
-    width: 100%;
-    height: 92%;
+    width: 73vw;
+    height: 40vw;
     background-repeat: no-repeat;
     background-size: contain;
     position: relative;
@@ -17,4 +13,15 @@
     opacity: 30%;
     transform-origin: top left;
     border-radius: 5px;
+}
+
+.noBounds {
+    background-color: red;
+}
+
+.group {
+    background-color: rgb(235, 235, 235);
+    border: rgb(225, 225, 225) 2px solid;
+    border-radius: 10px;
+    margin: 5px;
 }

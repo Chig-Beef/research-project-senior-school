@@ -49,11 +49,20 @@ ul {
 }
 
 #topSection {
-    width: 99%;
+    width: 99%;/*
+    background-image: url("file:///C:/Users/rhysharris/OneDrive%20-%20Tyndale%20Christian%20School/Research/website/images/logo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height:fit-content;*/
 }
 
 #sideSection {
     width: 20%;
+}
+
+#sideSection p, #sideSection h3 {
+    margin: 10px;
+    font-size: 15px;
 }
 
 #mainSection {
@@ -73,4 +82,8 @@ ul {
 a {
     color: white;
     text-decoration: none;
+}
+
+#logo {
+    margin-bottom: -5%;
 }
